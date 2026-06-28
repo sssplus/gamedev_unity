@@ -1,7 +1,7 @@
 
   # Open World Ranch Background
 
-  This is a code bundle for Open World Ranch Background. The original project is available at https://www.figma.com/design/TPXLttlXlKSlgBqE6dLx8D/Open-World-Ranch-Background.
+  This is a code bundle for Open World Ranch Background. The original project is available at https://www.figma.com/design
 
   ## Running the code
 
